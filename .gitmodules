@@ -1,0 +1,15 @@
+[submodule "pixurate-smart-contracts"]
+	path = pixurate-smart-contracts
+	url = https://github.com/htuzel/pixurate-smart-contracts.git
+[submodule "pixurate-sfra-cartridge"]
+	path = pixurate-sfra-cartridge
+	url = https://github.com/htuzel/pixurate-sfra-cartridge.git
+[submodule "pixurate-home-next"]
+	path = pixurate-home-next
+	url = https://github.com/htuzel/pixurate-home-next.git
+[submodule "nfturate"]
+	path = nfturate
+	url = https://github.com/htuzel/nfturate.git
+[submodule "pixurate-minting-service"]
+	path = pixurate-minting-service
+	url = https://github.com/htuzel/pixurate-minting-service.git
