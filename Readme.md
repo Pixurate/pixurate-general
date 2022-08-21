@@ -86,7 +86,7 @@ It is Salesforce Commerce Cloud Plugin that integrates our service with Salesfor
 Pixurate addresses three tracks on Polygon Hackathon. 
 Our main track is the Web3 integration of user review systems on eCommerce platforms.
 
-Web3 Integration in Web2 - Pixurate provides the transparent and secure version of user review systems on a blockchain with user incentives for higher engagement. Online purchases are awarded unique NFTs that include the purchase metadata which proves verification of NFT owners on the blockchain. 
+Web3 Integration in Web2 - Pixurate provides a seamless integration with Web2 Ecommerce platforms. With Pixurate integration, online purchases are awarded with unique NFTs that include the purhcase metadata. These NFTs prove verification of NFT owners on blockchain. Verified NFT users' feedback on Pixurate platform is stored and visible on blockchain and it is the transparent and secure version of user review systems.
 
 Nfts - Pixurate generates AI-powered NFTs of physical products purchased online. Each Pixurate NFT represents a specific purchase with its metadata. Users store their NFTs on the Pixurate app and give feedback on their purchases. Pixurate NFTs can be shared on social media for interaction. NFT owners are eligible for awards for their engagement. 
 
