@@ -6,7 +6,7 @@ Pixurate is developing **a review system on blockchain** for eCommerce owners to
 
 ## WHY WE BUILD IT
 
-**Blockchain** can bring extraordinary transparency to review systems and provide users with the most accurate information. In the **WEB2** world, all reviews are stored in 3rd party or in-house databases, and this information can be **easily manipulated**. Moreover, **even the industry leader, Trustpilot**, cannot offer a secure order verification mechanism. From this point of view, **we decided to develop the web3 version of Trustpilot**, and **our WEB3 approach solves the problem in all its aspects with a magical way.**
+**Blockchain** can bring extraordinary transparency to review systems and provide users with the most accurate information. In the **WEB2** world, all reviews are stored in 3rd party or in-house databases, and this information can be **easily manipulated**. Moreover, **even the industry leader, Trustpilot**, cannot offer a secure order verification mechanism. From this point of view, **we decided to develop the web3 version of Trustpilot**, and **our WEB3 approach solves the problem in all its aspects with a magical way by using web3.**
 
 ### PROBLEM
 
