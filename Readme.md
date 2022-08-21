@@ -24,6 +24,17 @@ Pixurate:
 - Generates AI-powered NFTs for websites without huge development expenses
 - Provides websites withintegrable widgets for reviews, ratings, testimonials and marketing.
 
+### HACKATHON TRACKS
+
+Pixurate addresses three tracks on Polygon Hackathon. 
+Our main track is the Web3 integration of user review systems on eCommerce platforms.
+
+Web3 Integration in Web2 - Pixurate provides a seamless integration with Web2 Ecommerce platforms. With Pixurate integration, online purchases are awarded with unique NFTs that include the purhcase metadata. These NFTs prove verification of NFT owners on blockchain. Verified NFT users' feedback on Pixurate platform is stored and visible on blockchain and it is the transparent and secure version of user review systems.
+
+Nfts - Pixurate generates AI-powered NFTs of physical products purchased online. Each Pixurate NFT represents a specific purchase with its metadata. Users store their NFTs on the Pixurate app and give feedback on their purchases. Pixurate NFTs can be shared on social media for interaction. NFT owners are eligible for awards for their engagement. 
+
+Public Goods - Pixurate offers an innovative Web3 application to solve the problems of review manipulation and consumer rights to share and access true consumer experience. Pixurate review system is a 3rd party organization with no conflict of interest in revealing true information and applies the highest level of purchase verification. Pixurate does not allow fake/bot reviews, review censoring and manipulation by design. Pixurate's indirect incentive mechanism motivates the consumers to share their experience and facilitate revealing the highest quality information about online shops.
+
 ## HOW IT WORKS
 
 1. It is enough to install our plugin or widget on an ecommerce platform to generate unique NFTs.
@@ -80,16 +91,5 @@ It is a nodejs application that interacts with smart contract by using Etherjs. 
 ### PIXURATE-SFRA-CARTRIDGE
 
 It is Salesforce Commerce Cloud Plugin that integrates our service with Salesforce Commerce Cloud, So ecommerce shop owners can easily install it. We are planning to create plugins like that for Shopify, WooCommerce, Magento, Ikas.
-
-### HACKATHON TRACKS
-
-Pixurate addresses three tracks on Polygon Hackathon. 
-Our main track is the Web3 integration of user review systems on eCommerce platforms.
-
-Web3 Integration in Web2 - Pixurate provides a seamless integration with Web2 Ecommerce platforms. With Pixurate integration, online purchases are awarded with unique NFTs that include the purhcase metadata. These NFTs prove verification of NFT owners on blockchain. Verified NFT users' feedback on Pixurate platform is stored and visible on blockchain and it is the transparent and secure version of user review systems.
-
-Nfts - Pixurate generates AI-powered NFTs of physical products purchased online. Each Pixurate NFT represents a specific purchase with its metadata. Users store their NFTs on the Pixurate app and give feedback on their purchases. Pixurate NFTs can be shared on social media for interaction. NFT owners are eligible for awards for their engagement. 
-
-Public Goods - Pixurate offers an innovative Web3 application to solve the problems of review manipulation and consumer rights to share and access true consumer experience. Pixurate review system is a 3rd party organization with no conflict of interest in revealing true information and applies the highest level of purchase verification. Pixurate does not allow fake/bot reviews, review censoring and manipulation by design. Pixurate's indirect incentive mechanism motivates the consumers to share their experience and facilitate revealing the highest quality information about online shops.
 
 
