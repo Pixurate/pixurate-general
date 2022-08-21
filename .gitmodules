@@ -13,3 +13,6 @@
 [submodule "pixurate-minting-service"]
 	path = pixurate-minting-service
 	url = https://github.com/htuzel/pixurate-minting-service.git
+[submodule "pixurate_widgets"]
+	path = pixurate_widgets
+	url = https://github.com/htuzel/pixurate_widgets.git
