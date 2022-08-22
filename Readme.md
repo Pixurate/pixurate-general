@@ -77,6 +77,11 @@ We tried to collect all repos under a single repo to make review process easier 
 
 It is our Core application for authentication, displaying dashboards, collecting reviews and serves widgets. It collects all requests from users and distrubite it to each request to service that responsible for. It is written with PHP and VueJS. (Laravel)
 
+### PIXURATE-SMART*CONTRACTS
+
+It is the code that we developed as smart contract.
+Contract address: 0xf2EcC77c1F1fe940E800C841910EE3c436f26B58
+
 ### PIXURATE WIDGETS
 
 It is a reactjs repo that including all widgets that we created. They can be used alones or can be used by a plugin that we created. (Like PIXURATE-SFRA-CARTRIDGE).
@@ -92,9 +97,7 @@ It is a nodejs application that interacts with smart contract by using Etherjs. 
 
 It is Salesforce Commerce Cloud Plugin that integrates our service with Salesforce Commerce Cloud, So ecommerce shop owners can easily install it. We are planning to create plugins like that for Shopify, WooCommerce, Magento, Ikas.
 
-### PIXURATE-SMART*CONTRACTS
+Demo shop address and Credentials are in the private repo and you can find details are there. It is private because of SFCC instance capacity is so limited and expensive :)
 
-It is the code that we developed as smart contract.
-Contract address: 0xf2EcC77c1F1fe940E800C841910EE3c436f26B58
 
 
