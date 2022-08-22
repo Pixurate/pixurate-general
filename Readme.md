@@ -92,4 +92,9 @@ It is a nodejs application that interacts with smart contract by using Etherjs. 
 
 It is Salesforce Commerce Cloud Plugin that integrates our service with Salesforce Commerce Cloud, So ecommerce shop owners can easily install it. We are planning to create plugins like that for Shopify, WooCommerce, Magento, Ikas.
 
+### PIXURATE-SMART*CONTRACTS
+
+It is the code that we developed as smart contract.
+Contract address: 0xf2EcC77c1F1fe940E800C841910EE3c436f26B58
+
 
